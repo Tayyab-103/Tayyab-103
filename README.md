@@ -1,6 +1,6 @@
 # Hi, I'm Tayyab 👋✨
  
-<img src="" alt=" banner says Tayyab Hameed - Computer Scientist, Data Analysts, Problem Solver along with cartoon illustration">
+<img src="https://github.com/Tayyab-103/Tayyab-103/assets/109760448/15322d9e-d45f-4a49-83c1-d13e6df6bfd6" alt=" banner says Tayyab Hameed - Computer Scientist, Data Analysts, Problem Solver along with cartoon illustration">
  
  
 I am a dedicated Front End Engineer with experience in developing and improving web applications. In my current role at The Dev Corporate, I have also collaborated with my team using version control and implemented unit tests for UI and functions.
